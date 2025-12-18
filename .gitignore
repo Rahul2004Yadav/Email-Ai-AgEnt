@@ -1,0 +1,6 @@
+credentials.json
+token.pkl
+.env
+__pycache__/
+venv
+.env/
